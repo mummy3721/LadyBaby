@@ -3,5 +3,12 @@ def function
 
 print hello work !
 
+go
+
+go
+
+go
+
+
 
 end
