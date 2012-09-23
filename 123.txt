@@ -4,20 +4,4 @@ def function
 print hello work !
 
 go
-
-go
-
-go
-
-
-
-end
-
-*************************88
-
-
-function dd () {
-
-return o.123;
-
-}
+gogoendfunction dd () {return o.123;}
