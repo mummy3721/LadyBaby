@@ -5,3 +5,12 @@ print hello work !
 
 go
 gogoendfunction dd () {return o.123;}
+
+
+function go (page) {
+
+   if (page) {
+      alert();
+   }
+
+}
